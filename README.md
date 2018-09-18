@@ -1,10 +1,12 @@
-# CS 349 A3 - Model-View-Controller in Java
-> Yufei Yang
-> 20610147
+# Image Viewer (MVC in Java)
+
+![Screen Shot 2018-09-18 at 17.27.19](README.assets/Screen Shot 2018-09-18 at 17.27.19.png)
+
+![Screen Shot 2018-09-18 at 17.27.24](README.assets/Screen Shot 2018-09-18 at 17.27.24.png)
 
 ## Description
 
-See [assignment](https://www.student.cs.uwaterloo.ca/~cs349/s18/assignments/a3.html)
+Awn interactive application that allows users to load images, and display the images and metadata in a dynamic layout. Users can rate images, and filter them based on this rating.
 
 ## Development Environment
 
