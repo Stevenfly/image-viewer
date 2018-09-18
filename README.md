@@ -1,8 +1,8 @@
 # Image Viewer (MVC in Java)
 
-![Screen Shot 2018-09-18 at 17.27.19](README.assets/Screen Shot 2018-09-18 at 17.27.19.png)
+![screenshot1](README.assets/screenshot1.png)
 
-![Screen Shot 2018-09-18 at 17.27.24](README.assets/Screen Shot 2018-09-18 at 17.27.24.png)
+![screenshot2](README.assets/screenshot2.png)
 
 ## Description
 
